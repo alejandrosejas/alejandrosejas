@@ -3,8 +3,8 @@
 ## I'm a Software Quality Assurance Engineer!!
 
 - 🔭 I love to learn new stuff
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software testers
+- 🌱 I’m currently learning HTML-CSS-JS 
+- 👯 I’m looking to collaborate with other software testers and Devs
 - 🥅 2021 Goals: Learn and improve my Automation skills
 - ⚡ Fun fact: I love to cook and play the bass guitar
 
