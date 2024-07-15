@@ -3,18 +3,10 @@
 ## I'm a Software Quality Assurance Engineer!!
 
 - 🔭 I love to learn new stuff
-- 🌱 I’m currently learning HTML-CSS-JS
+- 🌱 I’m currently learning TypeScript and Playwright
 - 👯 I’m looking to collaborate with other software testers and Devs
-- 🥅 2021 Goals: Learn and improve my Automation skills
-- ⚡ Fun fact: I love to cook and play the bass guitar
-
-### Connect with me:
-
-[<img align="left" alt="alejandrosejas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alejandrosejas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alejandrosejas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+- 🥅 2024 Goals: Improve my Automation skills
+- 🎸 Fun fact: I love to cook and play the bass guitar
 
 ### Languages and Tools:
 
@@ -23,12 +15,8 @@
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />
 
-<br />
 <br />
 
 ---
-
-[website]: https://alejandrosejas.com
-[linkedin]: https://www.linkedin.com/in/alejandrosejas/
-[instagram]: https://www.instagram.com/alejandrosejas/
