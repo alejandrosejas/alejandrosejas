@@ -1,43 +1,98 @@
-### Hi there, I'm Alejandro! 👋
+# Alejandro Sejas | Software Quality Assurance Engineer 👨‍💻
 
-## 🚀 Software Quality Assurance Engineer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrosejas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrosejas@outlook.com)
+[![GitHub followers](https://img.shields.io/github/followers/alejandrosejas?style=for-the-badge)](https://github.com/alejandrosejas)
 
-- 🔭 **Always Learning**: Exploring new tools and techniques to enhance quality assurance practices.
-- 🌱 **Currently Learning**: Mastering **TypeScript** and **Playwright** for robust automation.
-- 👯 **Collaborator**: Open to connecting with **software testers** and **developers** for impactful projects.
-- 🥅 **2025 Goals**: Elevate my **test automation skills** to new heights.
-- 🎸 **Fun Fact**: A passionate **cook** and a **bass guitarist** in my free time.
+## 🚀 About Me
+
+Quality-focused Software QA Engineer with expertise in test automation and a passion for ensuring software excellence. I specialize in creating robust, maintainable test frameworks and implementing effective testing strategies.
+
+- 🔭 **Current Focus**: Advancing test automation practices using modern frameworks
+- 🌱 **Learning**: TypeScript, Playwright, and CI/CD best practices
+- 👯 **Open to**: Collaborating on test automation projects and sharing QA knowledge
+- 🎯 **2025 Goals**:
+  - Master advanced Playwright patterns and practices
+  - Contribute to open-source testing frameworks
+  - Speak at QA/Testing conferences
+- 🎸 **Beyond Code**: Bass guitarist and culinary enthusiast
+
+## 💼 Technical Skills
+
+### Languages & Frameworks
+
+```typescript
+const skills = {
+  languages: ["TypeScript", "JavaScript", "Java"],
+  testFrameworks: ["Playwright", "Selenium", "Jest"],
+  tools: ["VS Code", "Git", "Docker"],
+  cicd: ["Azure DevOps", "GitHub Actions"],
+  projectManagement: ["Jira", "Azure Boards"],
+  concepts: ["BDD", "TDD", "Page Object Model", "CI/CD"],
+};
+```
+
+## 🛠️ Featured Projects
+
+### Test Automation Framework
+
+- **Tech Stack**: Playwright, TypeScript, Azure DevOps
+- **Key Features**:
+  - Page Object Model implementation
+  - Cross-browser testing capabilities
+  - Visual regression testing
+  - CI/CD integration
+  - Detailed HTML reports
+  - Parallel test execution
+
+### Performance Testing Suite
+
+- **Tech Stack**: k6, JavaScript
+- **Features**:
+  - Load testing scenarios
+  - Performance metrics collection
+  - Automated performance regression detection
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/alejandrosejas">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alejandrosejas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/alejandrosejas">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrosejas&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/alejandrosejas">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alejandrosejas&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
+
+## 🏆 Certifications & Achievements
+
+- ISTQB Certified Tester
+- Microsoft Azure DevOps Engineer Expert
+- Speaker at local testing meetups
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with fellow QA engineers, developers, and technology enthusiasts. Feel free to reach out for collaborations or just a chat about software testing!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandrosejas/)
+- 📧 [Email](mailto:alejandrosejas@outlook.com)
+- 🌐 Portfolio: [Coming Soon]
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p>
-  <img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="Jira" width="40px" src="https://img.icons8.com/color/48/000000/jira.png" />
-  <img align="center" alt="Java" width="40px" src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png" />
-  <img align="center" alt="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
-  <img align="center" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
-  <img align="center" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alejandrosejas/)  
-- 📧 [Email](mailto:alejandrosejas@outlook.com)  
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrosejas&show_icons=true&hide=stars&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-### 🎯 Featured Projects
-
-- 🧪 **Test Automation Suite**: Built with **Playwright** & **TypeScript** to ensure seamless web application quality.  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alejandrosejas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
