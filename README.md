@@ -3,6 +3,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrosejas/)
 
+## GitHub Stats
+| Top Languages | Profile Details |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosejas&layout=compact&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandrosejas&theme=github_dark) |
 ## About Me
 
 Quality-focused QA Engineer specializing in test automation and creating robust testing frameworks. I'm passionate about ensuring software excellence through modern testing practices.
@@ -23,12 +27,6 @@ Quality-focused QA Engineer specializing in test automation and creating robust 
 **🎯 Test Automation Framework**  
 Playwright + TypeScript framework with cross-browser testing, visual regression, and CI/CD integration
 
-## GitHub Stats
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=alejandrosejas&show_icons=true&theme=minimal&hide_border=true" height="165"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosejas&layout=compact&theme=minimal&hide_border=true" height="165"></td>
-</tr>
-</table>
+
 
 ---
