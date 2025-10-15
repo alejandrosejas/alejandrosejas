@@ -11,16 +11,16 @@
 
 Quality-focused QA Engineer specializing in test automation and creating robust testing frameworks. I'm passionate about ensuring software excellence through modern testing practices.
 
-- 🔭 Currently advancing test automation with Playwright and TypeScript
+- 🔭 Currently advancing test automation with Swift/XCUITest
 - 🌱 Learning CI/CD best practices and performance testing
 - 👯 Open to collaborating on testing frameworks and automation projects
 - 🎸 Bass guitarist and cooking enthusiast
 
 ## Skills
 
-**Languages:** TypeScript • JavaScript  
-**Testing:** Playwright • Selenium • Cypress  
-**Tools:** VS Code • Git • Docker • Jira • Azure DevOps  
+**Languages:** TypeScript • JavaScript • Swift  
+**Testing:** Playwright • Selenium • Cypress • XCTest • XCUITest  
+**Tools:** VS Code • Git • Docker • Jira • Azure DevOps • Cursor IDE  
 
 ## Featured Projects
 
