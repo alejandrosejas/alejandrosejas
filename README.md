@@ -19,7 +19,7 @@ Quality-focused QA Engineer specializing in test automation and creating robust 
 ## Skills
 
 **Languages:** TypeScript • JavaScript • Swift  
-**Testing:** Playwright • Selenium • Cypress • XCTest • XCUITest  
+**Testing:** Playwright • Selenium • Cypress • Appium • XCTest • XCUITest  
 **Tools:** VS Code • Git • Docker • Jira • Azure DevOps • Cursor IDE  
 
 ## Featured Projects
