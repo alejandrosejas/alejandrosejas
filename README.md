@@ -4,14 +4,6 @@
 
 ---
 
-## GitHub Stats
-
-| Top Languages | Profile Details |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosejas&layout=compact&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandrosejas&theme=github_dark) |
-
----
-
 ## About Me
 
 Quality-focused engineer specializing in test automation, reliability, and modern QA practices. Strong focus on scalable automation, CI/CD, and production confidence.
