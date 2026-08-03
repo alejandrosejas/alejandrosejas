@@ -5,6 +5,7 @@
 **Claude Certified Architect - Foundations**
 [Credly](https://www.credly.com/users/alejandro-sejas.5af43091)
 
+[<img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations badge" width="60">](https://www.credly.com/users/alejandro-sejas.5af43091)
 ---
 
 ## About Me
