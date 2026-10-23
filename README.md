@@ -1,6 +1,5 @@
 # Alejandro Sejas
 **Software Quality Assurance Engineer**
-[LinkedIn](https://www.linkedin.com/in/alejandrosejas/)
 
 **Claude Certified Architect - Foundations**
 [Credly](https://www.credly.com/users/alejandro-sejas.5af43091)
